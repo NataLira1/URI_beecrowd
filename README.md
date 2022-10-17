@@ -1,3 +1,6 @@
 # URI_beecrowd
 
-Resoluções exercícios do beecrowd em C
+Resoluções exercícios do beecrowd
+
+## Linguagem Utilizada
+- C
